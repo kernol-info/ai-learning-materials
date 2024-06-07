@@ -1,18 +1,24 @@
+# Learning Materials
+
 This repo focuses on learning materials for AI agent develoment collected from the internet.
 
-# Community
+## Community
+
 Those are communitis or frameworks that can accelerate your learning.
 
 1. [HuggingFace](https://huggingface.co/) - a community providing opensource models, datasets and APIs to build AI applications.
 2. [LangChain](https://www.langchain.com/) - a widely used frameworks for building AI agents, encapsulating/integrating with almost all the LLMs and third-party frameworks such as embeddings, vectorstores and tools etc..
 
+## Foundamental Concepts
 
-# Foundamental Concepts
 Those are the web pages that can help to understand the foundamental concepts of AI applications/agents development.
-## Prompt Engineering
+
+### Prompt Engineering
+
 1. [Prompt Engineering Guide](https://www.promptingguide.ai/)
 
-## Retrieval-Augmented Generation (RAG)
+### Retrieval-Augmented Generation (RAG)
+
 1. [What is retrieval-augmented generation, and what does it do for generative AI?](https://github.blog/2024-04-04-what-is-retrieval-augmented-generation-and-what-does-it-do-for-generative-ai/)
 2. [What Is Retrieval-Augmented Generation, aka RAG?](https://blogs.nvidia.com/blog/what-is-retrieval-augmented-generation/)
 3. [Using LangChain ReAct Agents for Answering Multi-hop Questions in RAG Systems](https://towardsdatascience.com/using-langchain-react-agents-for-answering-multi-hop-questions-in-rag-systems-893208c1847e)
