@@ -1,3 +1,5 @@
+This repo focuses on learning materials for AI agent develoment collected from the internet.
+
 # Useful Links #
 Those are the web pages that can help to understand the foundamental concepts of AI applications/agents development which are widely used in current AI industry.
 
