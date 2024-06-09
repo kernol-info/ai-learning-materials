@@ -2,12 +2,19 @@
 
 This repo focuses on learning materials for AI agent develoment collected from the internet.
 
-## Community
+## Communities
 
-Those are communitis or frameworks that can accelerate your learning.
+Those are communitis that can accelerate your learning.
 
 1. [HuggingFace](https://huggingface.co/) - a community providing opensource models, datasets and APIs to build AI applications.
-2. [LangChain](https://www.langchain.com/) - a widely used frameworks for building AI agents, encapsulating/integrating with almost all the LLMs and third-party frameworks such as embeddings, vectorstores and tools etc..
+
+## Frameworks
+
+Widely used frameworks in AI application development industry.
+
+1. [LangChain](https://www.langchain.com/) - a widely used frameworks for building AI agents, encapsulating/integrating with almost all the LLMs and third-party frameworks such as embeddings, vectorstores and tools etc..
+2. [LlamaIndex](https://www.llamaindex.ai) - LlamaIndex provides a complete set of tools for preparing and querying data for LLMs, including RAG.
+- [What is LlamaIndex? Exploring the World of LLM Orchestration Frameworks](https://www.datastax.com/guides/what-is-llamaindex)
 
 ## Foundamental Concepts
 
