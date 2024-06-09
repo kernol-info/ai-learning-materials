@@ -26,3 +26,4 @@ Those are the web pages that can help to understand the foundamental concepts of
 5. [Retrieval-Augmented Generation (RAG): From Theory to LangChain Implementation](https://towardsdatascience.com/retrieval-augmented-generation-rag-from-theory-to-langchain-implementation-4e9bd5f6a4f2)
 6. [Advanced Retrieval-Augmented Generation: From Theory to LlamaIndex Implementation](https://towardsdatascience.com/advanced-retrieval-augmented-generation-from-theory-to-llamaindex-implementation-4de1464a9930)
 7. [Tutorial: ChatGPT Over Your Data](https://blog.langchain.dev/tutorial-chatgpt-over-your-data/)
+8. [How to Build an LLM RAG Model with Custom Tools and Agents!](https://medium.com/@yashrevannavar13/how-to-build-a-llm-rag-model-with-custom-tools-and-agents-78b7f4b05fe8)
