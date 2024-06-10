@@ -14,7 +14,8 @@ Widely used frameworks in AI application development industry.
 
 1. [LangChain](https://www.langchain.com/) - a widely used frameworks for building AI agents, encapsulating/integrating with almost all the LLMs and third-party frameworks such as embeddings, vectorstores and tools etc..
 2. [LlamaIndex](https://www.llamaindex.ai) - LlamaIndex provides a complete set of tools for preparing and querying data for LLMs, including RAG.
-- [What is LlamaIndex? Exploring the World of LLM Orchestration Frameworks](https://www.datastax.com/guides/what-is-llamaindex)
+
+   - [What is LlamaIndex? Exploring the World of LLM Orchestration Frameworks](https://www.datastax.com/guides/what-is-llamaindex)
 
 ## Foundamental Concepts
 
