@@ -40,3 +40,4 @@ Those are the web pages that can help to understand the foundamental concepts of
 ## Videos
 
 1. [LangChain Master Class For Beginners 2024 [+20 Examples, LangChain V0.2]](https://youtu.be/yF9kGESAi3M?si=RxRqEF6ywXICZrmu)
+2. [LangChain GEN AI Tutorial – 6 End-to-End Projects using OpenAI, Google Gemini Pro, LLAMA2](https://youtu.be/x0AnCE9SE4A?si=op88RCeo7J2tHFEK)
