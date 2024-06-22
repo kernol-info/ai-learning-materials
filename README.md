@@ -36,3 +36,7 @@ Those are the web pages that can help to understand the foundamental concepts of
 7. [Tutorial: ChatGPT Over Your Data](https://blog.langchain.dev/tutorial-chatgpt-over-your-data/)
 8. [How to Build an LLM RAG Model with Custom Tools and Agents!](https://medium.com/@yashrevannavar13/how-to-build-a-llm-rag-model-with-custom-tools-and-agents-78b7f4b05fe8)
 9. [A Guide on 12 Tuning Strategies for Production-Ready RAG Applications](https://towardsdatascience.com/a-guide-on-12-tuning-strategies-for-production-ready-rag-applications-7ca646833439)
+
+## Videos
+
+1. [LangChain Master Class For Beginners 2024 [+20 Examples, LangChain V0.2]](https://youtu.be/yF9kGESAi3M?si=RxRqEF6ywXICZrmu)
