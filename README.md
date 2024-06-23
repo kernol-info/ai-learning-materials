@@ -16,6 +16,7 @@ Widely used frameworks in AI application development industry.
 2. [LlamaIndex](https://www.llamaindex.ai) - LlamaIndex provides a complete set of tools for preparing and querying data for LLMs, including RAG.
 
    - [What is LlamaIndex? Exploring the World of LLM Orchestration Frameworks](https://www.datastax.com/guides/what-is-llamaindex)
+3. [Streamlit](https://docs.streamlit.io/) - Streamlit is an open-source Python framework for data scientists and AI/ML engineers to deliver dynamic data apps with only a few lines of code. Build and deploy powerful data apps in minutes
 
 ## Foundamental Concepts
 
@@ -41,3 +42,5 @@ Those are the web pages that can help to understand the foundamental concepts of
 
 1. [LangChain Master Class For Beginners 2024 [+20 Examples, LangChain V0.2]](https://youtu.be/yF9kGESAi3M?si=RxRqEF6ywXICZrmu)
 2. [LangChain GEN AI Tutorial – 6 End-to-End Projects using OpenAI, Google Gemini Pro, LLAMA2](https://youtu.be/x0AnCE9SE4A?si=op88RCeo7J2tHFEK)
+3. [Python Streamlit Full Course](https://www.youtube.com/playlist?list=PLa6CNrvKM5QU7AjAS90zCMIwi9RTFNIIW)
+4. [Stream LLMs with LangChain + Streamlit | Tutorial](https://youtu.be/zKGeRWjJlTU?si=IzGX4DKB0IrWI7KB)
