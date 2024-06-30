@@ -44,3 +44,4 @@ Those are the web pages that can help to understand the foundamental concepts of
 2. [LangChain GEN AI Tutorial – 6 End-to-End Projects using OpenAI, Google Gemini Pro, LLAMA2](https://youtu.be/x0AnCE9SE4A?si=op88RCeo7J2tHFEK)
 3. [Python Streamlit Full Course](https://www.youtube.com/playlist?list=PLa6CNrvKM5QU7AjAS90zCMIwi9RTFNIIW)
 4. [Stream LLMs with LangChain + Streamlit | Tutorial](https://youtu.be/zKGeRWjJlTU?si=IzGX4DKB0IrWI7KB)
+5. [Beginner - LangGraph Simplified: Master Custom AI Agent Creation](https://youtu.be/R-o_a6dvzQM?si=RoCnhyW6V8gCq6R_)
