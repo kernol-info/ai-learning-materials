@@ -17,6 +17,8 @@ Widely used frameworks in AI application development industry.
 
    - [What is LlamaIndex? Exploring the World of LLM Orchestration Frameworks](https://www.datastax.com/guides/what-is-llamaindex)
 3. [Streamlit](https://docs.streamlit.io/) - Streamlit is an open-source Python framework for data scientists and AI/ML engineers to deliver dynamic data apps with only a few lines of code. Build and deploy powerful data apps in minutes
+4. [Chainlit](https://docs.chainlit.io/get-started/overview) - Chainlit is an open-source Python package to build production ready Conversational AI. It can be smoothly integrated with Langchain and similar to Streamlit, it has a built-in UI that can open in Browser.
+5. [literalAI](https://docs.getliteral.ai/get-started/overview) - Literal AI is an all in one observability, evaluation and analytics platform for building production-grade LLM apps. Literal AI offers multimodal logging, including vision, audio, and video.
 
 ## Foundamental Concepts
 
