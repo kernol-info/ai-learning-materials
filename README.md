@@ -40,7 +40,7 @@ Those are the web pages that can help to understand the foundamental concepts of
 8. [How to Build an LLM RAG Model with Custom Tools and Agents!](https://medium.com/@yashrevannavar13/how-to-build-a-llm-rag-model-with-custom-tools-and-agents-78b7f4b05fe8)
 9. [A Guide on 12 Tuning Strategies for Production-Ready RAG Applications](https://towardsdatascience.com/a-guide-on-12-tuning-strategies-for-production-ready-rag-applications-7ca646833439)
 10. [Llm as a judge|https://eugeneyan.com/writing/llm-evaluators/]
-
+11. [Introducing Contextual Retrieval|https://www.anthropic.com/news/contextual-retrieval]
 
 ## Videos
 
